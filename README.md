@@ -13,11 +13,12 @@ To increase the sales growth, Sales director need to look into these areas
 4. Revenue by year 
 5. Top 10 customer by revenue and profit 
 6. Profit and revenue trend 
-7. Last 4 year revenue (Overall sales)
-8. Last 4 year revenue by market (region, zone) (We can focus to increase sales on particular zone, market by increasing sales employees,promoting,advertising products)
-9. Identify less revenue getting from customers (get the feedback from them, attract by offer and discounts)
-10. Indentify top revenue getting from customers (Increase products which have more price)
-11. Identify the markets which sales is very very low (stop sales in those areas to avoid transport charges and sales employees, this can be invest on other areas otherwise we can attract by huge discount and offers)
-12. Display the return products quantity from different market zones
-13. Identify which products increasing more revenue fromm region, market, cutomers (main objective is to increase sales )
-14. Identify on which month sales growth is increasing by checking with previous 4 years (So company can be ready with quantity to increase the product distribution)  
+7. Profit by category 
+8. Last 4 year revenue (Overall sales)
+9. Last 4 year revenue by market (region, zone) (We can focus to increase sales on particular zone, market by increasing sales employees,promoting,advertising products)
+10. Identify less revenue getting from customers (get the feedback from them, attract by offer and discounts)
+11. Indentify top revenue getting from customers (Increase products which have more price)
+12. Identify the markets which sales is very very low (stop sales in those areas to avoid transport charges and sales employees, this can be invest on other areas otherwise we can attract by huge discount and offers)
+13. Display the return products quantity from different market zones
+14. Identify which products increasing more revenue fromm region, market, cutomers (main objective is to increase sales )
+15. Identify on which month sales growth is increasing by checking with previous 4 years (So company can be ready with quantity to increase the product distribution)  
