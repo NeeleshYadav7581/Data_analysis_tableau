@@ -20,5 +20,5 @@ To increase the sales growth, Sales director need to look into these areas
 11. Indentify top revenue getting from customers (Increase products which have more price)
 12. Identify the markets which sales is very very low (stop sales in those areas to avoid transport charges and sales employees, this can be invest on other areas otherwise we can attract by huge discount and offers)
 13. Display the return products quantity from different market zones
-14. Identify which products increasing more revenue fromm region, market, cutomers (main objective is to increase sales )
+14. Identify which products increasing more revenue from region, market, cutomers (main objective is to increase sales )
 15. Identify on which month sales growth is increasing by checking with previous 4 years (So company can be ready with quantity to increase the product distribution)  
